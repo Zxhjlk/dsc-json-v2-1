@@ -6,6 +6,7 @@ In this lesson, you'll continue investigating new formats for data. Specifically
 
 ## Objectives
 You will be able to:
+Test
 
 * Describe features of the JSON format and the Python `json` module
 * Use Python to load and parse JSON documents
